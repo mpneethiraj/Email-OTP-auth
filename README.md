@@ -2,6 +2,8 @@
 
 Email OTP auth used default laravel authentication and ui used.
 
+While login the application Email OTP send to the registered email(You can register login the application).
+
 Note : Kindly check Emails in "SPAM" folder also.
 
 ## Installation
